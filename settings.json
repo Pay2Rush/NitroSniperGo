@@ -10,7 +10,7 @@
     "alts": "invisible"
   },
   "nitro": {
-    "max": 2,
+    "max": 200,
     "cooldown": 24,
     "main_sniper": true,
     "delay": true
